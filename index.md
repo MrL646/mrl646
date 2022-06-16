@@ -1,3 +1,3 @@
 #### About me
-Too lazy to work on this page.
-This page is unfinished.
+This page is unfinished.  
+~~Too lazy to work on this page.~~
