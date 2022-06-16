@@ -2,7 +2,7 @@
 
 ~~This person is too lazy to write his profile.~~
 
-**_Default_** documention below:  
+**Default** documention below:  
 
 **MrL646/mrl646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
