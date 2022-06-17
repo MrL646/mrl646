@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](README.md)
+* [个人简介](README.md)
