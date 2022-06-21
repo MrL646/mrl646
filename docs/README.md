@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-~~This person is too lazy to write his profile.~~
+> **尚未完工**  
 
-此页面用来存放文档。
+~~This person is too lazy to write documents.~~  
 
-**_尚未完工_**
+请看左侧目录
 
 <!--
-**Default** documention below:  
+**Default** document below:  
 
 **MrL646/mrl646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
