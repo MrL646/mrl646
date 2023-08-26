@@ -54,30 +54,22 @@
 							<article id="comments">
 								<h2 class="major">留言板</h2>
 									
-<head>
-    <!-- ... -->
-    <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-    />
-    <!-- ... -->
-  </head>
-  <body>
-    <!-- ... -->
-    <div id="waline"></div>
-    <script>
-      Waline.init({
-        el: '#waline',
-        serverURL: 'https://wl.mrl646.top/',
-	path: 'comments',
-        emoji: [
-            'https://unpkg.com/@waline/emojis@1.1.0/tieba',
-            'https://unpkg.com/@waline/emojis@1.1.0/bilibili'
-        ],
-      });
-    </script>
-  </body>
+								<head>
+									<!-- ... -->
+									<link rel="stylesheet" href="https://unpkg.com/sodesu-comment/dist/sodesu.css" />
+									<!-- ... -->
+								  </head>
+								  <body>
+									<!-- ... -->
+									<div id="sodesu"></div>
+									<script src="https://unpkg.com/sodesu-comment/dist/sodesu.aio.umd.js"></script>
+									<script>
+									  Sodesu.init({
+										el: '#sodesu',
+										serverURL: 'https://wl.mrl646.top',
+									  });
+									</script>
+								  </body>
 							</article>
 						
 					</div>
